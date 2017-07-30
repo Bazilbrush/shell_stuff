@@ -1,0 +1,25 @@
+
+
+127.0.0.1 localhost
+
+35.176.204.249 Greenext
+35.176.181.20 Orangeext
+35.176.221.53 Blueext
+52.56.138.17 Redext
+
+10.0.0.57 Orange
+10.0.0.81 Green
+10.0.0.235 Blue
+10.0.0.124 Red
+
+#35.177.23.21 Orangeext
+#35.176.228.155 Greenext
+#36.176.174.244 Blueext
+#35.176.126.97 Redext
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
